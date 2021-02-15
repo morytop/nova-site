@@ -1,0 +1,35 @@
+.site-header {
+    width: 100%;
+    min-height: 600px;
+    background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+
+
+}
+
+.header-container {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 1050px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+.header-nav__list {
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+.header-nav__list a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 1);
+    margin: 0 10px;
+    padding: 0 10px;
+}
