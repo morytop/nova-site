@@ -2,7 +2,7 @@
 
 ## Description
 
-My first site based on template form [Webscope](https://webscopeapp.com/) and it looks like that:
+My first site based on template form [Webscope](https://webscopeapp.com/) 
 
 ![](./assets/demo.png)
 
