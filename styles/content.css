@@ -115,3 +115,21 @@
     cursor: pointer;
     color: rgba(255, 255, 255, 1);
 }
+
+.team-section__title {
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 50px 50px 100px;
+    text-align: center;
+    font-size: 1.5em;
+
+
+    footer {
+        background-color: #464646;
+    }
+
+    footer img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
